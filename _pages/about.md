@@ -23,15 +23,15 @@ I am a current master student at [NEU](http://www.neu.edu.cn/). I am interested 
 
 # 🔥 News
 - *2022.05*: One paper is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) after revision.
-- *2022.04*: One paper is submitted to [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine)(co-author).
-- *2022.04*: One paper is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)(co-author).
+- *2022.04*: One paper(co-author) is submitted to [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine).
+- *2022.04*: One paper(co-author) is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
 - *2022.03*: One paper is submitted to [ECCV2022](https://eccv2022.ecva.net/).
 - *2022.02*: One paper is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
 
 # 📝 Publications 
 
 # 📝 Preprints
-- Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation, Xu Zheng, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham **[Arxiv](https://arxiv.org/pdf/2111.11629) 2021**
+- Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation, Xu Zheng, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham **[Arxiv](https://arxiv.org/pdf/2111.11629) 2021**（submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) after revision.）
 
 # 🎖 Honors and Awards
 - *2020.09* First Class Master Scholarship of Northeastern University
