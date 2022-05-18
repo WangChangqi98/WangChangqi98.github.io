@@ -26,7 +26,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/). I am interested 
 - *2022.04*: One paper(co-author) is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
 - *2022.03*: One paper is submitted to [ECCV2022](https://eccv2022.ecva.net/).
 - *2022.02*: One paper is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
-
+- *2021.11*: Start internship at VLISLab in HKUST.
 # 📝 Publications 
 
 # 📝 Preprints
@@ -45,3 +45,6 @@ I am a current master student at [NEU](http://www.neu.edu.cn/). I am interested 
 # 💻 Internships
 - *2021.11 - 2022.05 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
 - *2021.08 - 2021.09*, [Hokkaido](https://www.hokudai.ac.jp/) Summer Institute.
+
+# 🏫 Social Activities
+- *2019.08 - 2020.08*, Volunteer teachers in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province.
