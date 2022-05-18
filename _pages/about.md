@@ -47,4 +47,4 @@ I am a current master student at [NEU](http://www.neu.edu.cn/). I am interested 
 - *2021.08 - 2021.09*, [Hokkaido](https://www.hokudai.ac.jp/) Summer Institute.
 
 # 🏫 Social Activities
-- *2019.08 - 2020.08*, Volunteer teachers in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province.
+- *2019.08 - 2020.08*, Serving as a volunteer teacher in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province.
