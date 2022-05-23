@@ -19,7 +19,7 @@ redirect_from:
 
 I am a current master student at [NEU](http://www.neu.edu.cn/). I am interested in a wide array of topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation and semi-supervised learning.
 
-[Email](zhenxu128@gmail.com)/<a href="[https://my.github.io/files/paper.pdf](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755100/zhengxu.pdf)">CV</a>
+[Email](zhenxu128@gmail.com)/[CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755100/zhengxu.pdf)
 /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)
 
 # 🔥 News
@@ -31,6 +31,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/). I am interested 
 - *2021.11*: Start internship at VLISLab in HKUST.
 
 # 📝 Publications 
+🙏🙏🙏
 
 # 📝 Preprints
 - Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation, Xu Zheng, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham **[Arxiv](https://arxiv.org/pdf/2111.11629) 2021**（submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) after revision.）
