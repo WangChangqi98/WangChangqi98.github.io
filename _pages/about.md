@@ -37,7 +37,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/). I am interested 
 # 🎖 Honors and Awards
 - *2020.09* First Class Master Scholarship of Northeastern University
 - *2019.06* Outstanding Graduate of Liaoning Province
-- *2019.06* Outstanding Graduate of Northeastern Unversity
+- *2019.06* Outstanding Graduate of Northeastern University
 - *2019.03* First Class Scholarship of Northeastern University
 
 # 📖 Educations
