@@ -22,10 +22,10 @@ I am a current master student at [NEU](http://www.neu.edu.cn/). I am interested 
 [Email](zhenxu128@gmail.com)/[CV](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)/[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)
 
 # 🔥 News
-- *2022.05*: One paper is submitted to NeurIPS2022.
+- *2022.05*: One paper(Knowledge Distillation on ViT) is submitted to [NeurIPS2022](https://nips.cc/).
 - *2022.04*: One paper(co-author) is submitted to [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine).
 - *2022.04*: One paper(co-author) is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
-- *2022.03*: One paper is submitted to [ECCV2022](https://eccv2022.ecva.net/).
+- *2022.03*: One paper(Semi-supervised Learning) is submitted to [ECCV2022](https://eccv2022.ecva.net/).
 - *2022.02*: One paper is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
 - *2021.11*: Start internship at VLISLab in HKUST.
 
