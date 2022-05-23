@@ -19,7 +19,7 @@ redirect_from:
 
 I am a current master student at [NEU](http://www.neu.edu.cn/). I am interested in a wide array of topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation and semi-supervised learning.
 
-[Email](zhenxu128@gmail.com)/[CV](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)/[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)
+[Email](zhenxu128@gmail.com)/[CV]([zhengxu.pdf](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755100/zhengxu.pdf))/[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)
 
 # 🔥 News
 - *2022.05*: One paper(Knowledge Distillation on ViT) is submitted to [NeurIPS2022](https://nips.cc/).
