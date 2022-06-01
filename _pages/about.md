@@ -42,8 +42,8 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 - *2019.03* First Class Scholarship of Northeastern University
 
 # 📖 Educations
-- *2020.06 - 2022.05 (now)*, Master, Northeastern University 
-- *2015.09 - 2019.06*, Bachelor, Northeastern University
+- *2020.06 - 2022.05 (now)*, M.E., Northeastern University 
+- *2015.09 - 2019.06*, B.E., Northeastern University
 
 # 💻 Internships
 - *2021.11 - 2022.05 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
