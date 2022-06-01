@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xu Zheng (郑旭)"
-  avatar           : "images/zhengxu.JPG"
+  avatar           : "images/zhengxu.jpg"
   bio              : "Northeastern Unversity"
   location         : "Shenyang, China"
   employer         :
