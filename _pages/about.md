@@ -37,7 +37,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
   
 **Xu Zheng**, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
-
+  
 # 🎖 Honors and Awards
 - *2020.09* First Class Master Scholarship of Northeastern University
 - *2019.06* Outstanding Graduate of Liaoning Province
@@ -45,7 +45,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 - *2019.03* First Class Scholarship of Northeastern University
 
 # 📖 Educations
-- *2020.06 - 2022.05 (now)*, M.E., Northeastern University 
+- *2020.06 - 2022.06 (now)*, M.E., Northeastern University 
 - *2015.09 - 2019.06*, B.E., Northeastern University
 
 # 💻 Internships
