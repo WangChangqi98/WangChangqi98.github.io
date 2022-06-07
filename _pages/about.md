@@ -30,27 +30,25 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 - *2021.11*: Start internship at VLISLab in HKUST.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/pdf/2206.02070)Arxiv 2022
+  
+Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
+  
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/uncertainty-aware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629)
+[Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629) Arxiv 2021
   
 <u>Xu Zheng</u>, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/pdf/2206.02070)
-  
-Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
-
-
-  
-</div>
-</div>
 # 🎖 Honors and Awards
 - *2020.09* First Class Master Scholarship of Northeastern University
 - *2019.06* Outstanding Graduate of Liaoning Province
