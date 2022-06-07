@@ -35,7 +35,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
   
 [Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629)
   
-**Xu Zheng**, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
+** <u>Xu Zheng</u>**, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
 </div>
 </div>
@@ -44,7 +44,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
   
 [All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/pdf/2206.02070)
   
-Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, **Xu Zheng**, Lin Wang
+Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, ** <u>Xu Zheng</u>**, Lin Wang
 
 </div>
 </div>
