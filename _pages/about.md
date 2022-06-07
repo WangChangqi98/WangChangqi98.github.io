@@ -30,9 +30,6 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 - *2021.11*: Start internship at VLISLab in HKUST.
 
 # 📝 Publications 
-🙏🙏🙏
-
-# 📝 Preprints
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/uncertainty-aware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
