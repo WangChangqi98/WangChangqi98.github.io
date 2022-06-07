@@ -36,8 +36,9 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/uncertainty-aware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 [Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629)
+  
 **Xu Zheng**, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
 
