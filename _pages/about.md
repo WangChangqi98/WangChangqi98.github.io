@@ -37,10 +37,9 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
   
 <u>Xu Zheng</u>, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
-Semi-supervised learning has made significant strides in the medical domain since it alleviates the heavy burden of collecting abundant pixel-wise annotated data for semantic segmentation tasks. Existing semi-supervised approaches enhance the ability to extract features from unlabeled data with prior knowledge obtained from limited labeled data. However, due to the scarcity of labeled data, the features extracted by the models are limited in supervised learning, and the quality of predictions for unlabeled data also cannot be guaranteed. Both will impede consistency training. To this end, we proposed a novel uncertainty-aware scheme to make models learn regions purposefully.
+</div>
+</div>
 
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -48,7 +47,7 @@ Semi-supervised learning has made significant strides in the medical domain sinc
   
 Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 
-Our work covers five primary contents: (1) A theoretical analysis of priors for deep image restoration and enhancement; (2) A hierarchical and structural taxonomy of priors commonly used in the DL-based methods; (3) An insightful discussion on each prior regarding its principle, potential, and applications; (4) A summary of crucial problems by highlighting the potential future directions to spark more research in the community; (5) An open-source repository that provides a taxonomy of all mentioned works and code links.
+
   
 </div>
 </div>
