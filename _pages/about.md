@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation, vision trainsformers and semi-supervised learning.
+I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation and omnidirectional vision.
 
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)
 
