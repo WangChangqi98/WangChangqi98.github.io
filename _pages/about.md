@@ -71,7 +71,7 @@ Yunfan Lu, Yiqi Lin, Hao Wu, [Yunhao Luo](https://devinluo27.github.io/), <u>Xu 
 <br/> Course: Reinforcement learning, optimization theory and NLP
 
 # 🏫 Social Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photo</div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Serving as a volunteer teacher in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province from 2019/08 to 2020/08. There I met lovely teachers and students, and the precious experiences gave me a different understanding of life.
 </div>
