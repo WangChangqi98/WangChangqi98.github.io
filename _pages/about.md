@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation and omnidirectional vision.
+I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation, omnidirectional vision and medical iamge analysis. 
 
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)
 
@@ -47,23 +47,24 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 </div>
 
 # 🎖 Honors and Awards
-- *2020.09* First Class Master Scholarship of Northeastern University
+- *2020.09* First Class Master Scholarship of Northeastern University 
 - *2019.06* Outstanding Graduate of Liaoning Province
 - *2019.06* Outstanding Graduate of Northeastern University
 - *2019.03* First Class Scholarship of Northeastern University
+- *2018.09* Second Class Scholarship of Northeastern University
+- *2017.06* Honerable Mention Award in MCM 2017
 
 # 📖 Educations
 - *2020.06 - 2022.06 (now)*, M.E., Northeastern University 
 - *2015.09 - 2019.06*, B.E., Northeastern University
 
 # 💻 Internships
-- *2021.11 - 2022.05 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
+- *2021.11 - 2022.06 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
 - *2021.08 - 2021.09*, [Hokkaido](https://www.hokudai.ac.jp/) Summer Institute.
 
 # 🏫 Social Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photo</div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Serving as a volunteer teacher in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province from 2019/08 to 2020/08.
-
+Serving as a volunteer teacher in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province from 2019/08 to 2020/08. There I met lovely teachers and students, and the precious experiences gave me a different understanding of life.
 </div>
 </div>
