@@ -55,8 +55,17 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 - *2017.06* Honerable Mention Award in MCM 2017
 
 # 📖 Educations
-- *2020.06 - 2022.06 (now)*, M.E., Northeastern University 
-- *2015.09 - 2019.06*, B.E., Northeastern University
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">School Badge</div><img src='images/东北大学.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+2020.06 - 2022.06 (now) M.E. Northeastern University
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">School Badge</div><img src='images/东北大学.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+2015.09 - 2019.06 B.E. Northeastern University
+</div>
+</div>
+
 
 # 💻 Internships
 - *2021.11 - 2022.06 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
