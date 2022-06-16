@@ -22,6 +22,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)
 
 # 🔥 News
+- *2022.06*: Start internship at Khoury College, NEU.
 - *2022.06*: One survey paper uploaded to Arxiv. ["All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey"](https://arxiv.org/pdf/2206.02070)
 - *2021.11*: Start internship at [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
 - *2021.11*: One paper uploaded to Arxiv. [Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629)
