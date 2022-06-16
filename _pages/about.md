@@ -22,12 +22,9 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ)
 
 # 🔥 News
-- *2022.05*: One paper(Knowledge Distillation on ViT) is submitted to [NeurIPS2022](https://nips.cc/).
-- *2022.04*: One paper(co-author) is submitted to [Computer Methods and Programs in Biomedicine](https://www.journals.elsevier.com/computer-methods-and-programs-in-biomedicine).
-- *2022.04*: One paper(co-author) is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
-- *2022.03*: One paper(Semi-supervised Learning) is submitted to [ECCV2022](https://eccv2022.ecva.net/).
-- *2022.02*: One paper is submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
-- *2021.11*: Start internship at VLISLab in HKUST.
+- *2022.06*: One survey paper uploaded to Arxiv. ["All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey"](https://arxiv.org/pdf/2206.02070)
+- *2021.11*: Start internship at [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
+- *2021.11*: One paper uploaded to Arxiv. [Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629)
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
@@ -64,4 +61,9 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 - *2021.08 - 2021.09*, [Hokkaido](https://www.hokudai.ac.jp/) Summer Institute.
 
 # 🏫 Social Activities
-- *2019.08 - 2020.08*, Serving as a volunteer teacher in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Serving as a volunteer teacher in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province from 2019/08 to 2020/08.
+
+</div>
+</div>
