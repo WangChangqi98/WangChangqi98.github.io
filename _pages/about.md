@@ -32,7 +32,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
   
 [All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/pdf/2206.02070) Arxiv 2022
   
-Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
+Yunfan Lu, Yiqi Lin, Hao Wu, [Yunhao Luo](https://devinluo27.github.io/), <u>Xu Zheng</u>, Lin Wang
   
 </div>
 </div>
@@ -55,27 +55,20 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 - *2017.06* Honerable Mention Award in MCM 2017
 
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/东北大学.png' alt="sym" width="10%"></div></div>
-<div class='paper-box-text' markdown="1">
-2020.06 - 2022.06 (now) M.E. Northeastern University
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/东北大学.png' alt="sym" width="10%"></div></div>
-<div class='paper-box-text' markdown="1">
-2015.09 - 2019.06 B.E. Northeastern University
-</div>
-</div>
+- *2020.06 - 2022.06 (now)*, <br/> M.E., Northeastern University, Shenyang, China
+- *2015.09 - 2019.06*, <br/> B.E., Northeastern University, Shenyang, China
+
 
 
 # 💻 Internships
 - *2021.11 - 2022.06 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
-• Survey: Prior in low level vision(2022.02 - 2022.06)
-• Research: Knowledge Distillation(2022.03 - 2022.05)
-• Research: Semi-supervised Learning(2021.11 - 2021.03)
+<br/> Survey: Prior in low level vision(2022.02 - 2022.06)
+<br/> Research: Knowledge Distillation(2022.03 - 2022.05)
+<br/> Research: Semi-supervised Learning(2021.11 - 2021.03)
 
 - *2021.08 - 2021.09*, [Hokkaido](https://www.hokudai.ac.jp/) Summer Institute.
-• Course: The Theory and Application of Deep Learning
-• Course: Reinforcement learning, optimization theory and NLP
+<br/> Course: The Theory and Application of Deep Learning
+<br/> Course: Reinforcement learning, optimization theory and NLP
 
 # 🏫 Social Activities
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Photo</div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
