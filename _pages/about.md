@@ -62,9 +62,9 @@ Yunfan Lu, Yiqi Lin, Hao Wu, [Yunhao Luo](https://devinluo27.github.io/), <u>Xu 
 
 # 💻 Internships
 - *2021.11 - 2022.06 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
-<br/>2022.02 - 2022.06, [Survey](https://arxiv.org/pdf/2206.02070): Priors in deep-learning based image resotration and enhancement, submitted to TPAMI.
-<br/>2022.03 - 2022.05, Research: Knowledge Distillation, submitted to NeurIPS2022.
-<br/>2021.11 - 2021.03, Research: Semi-supervised Learning, submitted to ECCV 2022.
+<br/>(2022.02 - 2022.06)[Survey](https://arxiv.org/pdf/2206.02070): Priors in deep-learning based image resotration and enhancement, submitted to TPAMI.
+<br/>(2022.03 - 2022.05)Research: Knowledge Distillation, submitted to NeurIPS2022.
+<br/>(2021.11 - 2021.03)Research: Semi-supervised Learning, submitted to ECCV 2022.
 
 - *2021.08 - 2021.09*, [Hokkaido](https://www.hokudai.ac.jp/) Summer Institute.
 <br/> Course: The Theory and Application of Deep Learning
