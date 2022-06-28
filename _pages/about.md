@@ -30,7 +30,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/pdf/2206.02070) Arxiv 2022
+[All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/pdf/2206.02070) Arxiv 2022 (Submitted to TPAMI)
   
 Yunfan Lu, Yiqi Lin, Hao Wu, [Yunhao Luo](https://devinluo27.github.io/), <u>Xu Zheng</u>, Lin Wang
   
@@ -39,7 +39,7 @@ Yunfan Lu, Yiqi Lin, Hao Wu, [Yunhao Luo](https://devinluo27.github.io/), <u>Xu 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/uncertainty-aware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629) Arxiv 2021
+[Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629) Arxiv 2021 (Submitted to CIBM)
   
 <u>Xu Zheng</u>, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
