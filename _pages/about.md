@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation, omnidirectional vision and medical image analysis. 
+I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation, omnidirectional vision and medical image analysis. 
 
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
 
@@ -32,7 +32,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
   
 [All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/pdf/2206.02070) Arxiv 2022 (Submitted to TPAMI)
   
-Yunfan Lu, Yiqi Lin, Hao Wu, [Yunhao Luo](https://devinluo27.github.io/), <u>Xu Zheng</u>, Lin Wang
+Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
   
 </div>
 </div>
