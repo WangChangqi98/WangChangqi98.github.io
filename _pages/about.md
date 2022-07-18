@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation, omnidirectional vision and medical image analysis. 
+I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation, omnidirectional vision, optical flow and medical image analysis. 
 
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
 
 # 🔥 News
+- *2022.06*: Start visiting @ NEU
 - *2022.06*: One survey paper uploaded to Arxiv. ["All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey"](https://arxiv.org/pdf/2206.02070)
-- *2021.11*: Start internship at [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
+- *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
 - *2021.11*: One paper uploaded to Arxiv. [Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629)
 
 # 📝 Publications 
@@ -53,6 +54,7 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 - *2019.03* First Class Scholarship of Northeastern University
 - *2018.09* Second Class Scholarship of Northeastern University
 - *2017.06* Honerable Mention Award in MCM 2017
+- *2017.08* Provincial Third Prize in Liaoning Province Electronic Design Competition 
 
 # 📖 Educations
 - *2020.06 - 2022.06 (now)*, <br/> M.E., Northeastern University, Shenyang, China
