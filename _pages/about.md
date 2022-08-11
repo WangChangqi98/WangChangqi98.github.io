@@ -77,17 +77,17 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 I have been serving as a volunteer teacher in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province from 2019/08 to 2020/08. There I met lovely teachers and students, and the precious experiences gave me a different understanding of life.
 </div>
 </div>
-<body>
-        <div style="width: 400px; margin-left: 5%;">
-        <br/>
-        <br/>
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&cl=ffffff&w=a"></script>
-    </div>
-    <!-- text-indent:3em;  -->
-    <div style="margin-left: 5%;" id='modify_log'>
-        <br/>
-        <p>Last updated: Aug 10th, 2022</p>
-        <br/>
-        <br/>
-    </div>
-<body>
+
+<div style="width: 400px; margin-left: 5%;">
+<br/>
+<br/>
+<a href="https://clustrmaps.com/site/1bpt9"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&cl=ffffff" /></a>
+</div>
+<!-- text-indent:3em;  -->
+<div style="margin-left: 5%;" id='modify_log'>
+<br/>
+<p>Last updated: Aug 10th, 2022</p>
+<br/>
+<br/>
+</div>
+
