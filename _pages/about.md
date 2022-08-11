@@ -80,7 +80,7 @@ I have been serving as a volunteer teacher in Tongchuan No. 2 Primary School, Sa
 
 <html>
   <body>
-    <div style="width: 400px; margin-left: 5%;">
+    <div style="width: 400px;">
         <br/>
         <br/>
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&cl=ffffff&w=a"></script>
