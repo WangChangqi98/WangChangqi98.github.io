@@ -78,4 +78,4 @@ I have been serving as a volunteer teacher in Tongchuan No. 2 Primary School, Sa
 </div>
 </div>
 
-<span id="busuanzi_container_site_pv">🌟Total Views🌟<span id="busuanzi_value_site_pv"></span>次</span>
+<span id="busuanzi_container_site_pv">Total Views:<span id="busuanzi_value_site_pv"></span>🌟</span>
