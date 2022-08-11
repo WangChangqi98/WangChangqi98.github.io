@@ -78,7 +78,8 @@ I have been serving as a volunteer teacher in Tongchuan No. 2 Primary School, Sa
 </div>
 </div>
 
-
-</div>
-</div>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&cl=ffffff&w=a"></script>
+<div style="width: 600px">
+        <br/>
+        <br/>
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&cl=ffffff&w=a"></script>
+    </div>
