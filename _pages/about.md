@@ -23,7 +23,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 
 # 🔥 News
 
-- *2022.08*: <font color=red>Two paper accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
+- *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 
 - *2022.06*: One survey paper uploaded to Arxiv. ["All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey"](https://arxiv.org/pdf/2206.02070)
 - *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
