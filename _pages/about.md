@@ -22,9 +22,8 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
 
 # 🔥 News
-
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
-
+- *2022.07*: Start remote visting [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) in [NEU](https://www.northeastern.edu/).
 - *2022.06*: One survey paper uploaded to Arxiv. ["All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey"](https://arxiv.org/pdf/2206.02070)
 - *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
 
@@ -91,7 +90,7 @@ I have been serving as a volunteer teacher in Tongchuan No. 2 Primary School, Sa
     <!-- text-indent:3em;  -->
     <div style="margin-left: 5%;" id='modify_log'>
         <br/>
-        <p>Last updated: Aug 16th, 2021</p>
+        <p>Last updated: Aug 24th, 2022</p>
         <br/>
         <br/>
     </div>
