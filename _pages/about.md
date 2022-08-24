@@ -41,7 +41,7 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/uncertainty-aware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629), IF = 6.698 (2022).
+[Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629), 2022.
   
 <u>Xu Zheng</u>, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
@@ -51,7 +51,7 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/Uncertainty-Teacher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation, IF = 6.698 (2022).
+Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation, 2022.
   
 Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 
