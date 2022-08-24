@@ -48,12 +48,12 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine (CIBM)</div><img src='images/uncertainty-aware.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine (CIBM)</div><img src='images/Uncertainty-Teacher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation] 2022 
   
-<u>Xu Zheng</u>, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
+Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 
 </div>
 </div>
