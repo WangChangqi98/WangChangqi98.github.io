@@ -74,7 +74,8 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 
 
 # 💻 Internships
-- *2021.11 - 2022.06 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
+- *2021.11 - 2022.08 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
+<br/>(2022.06 - 2022.08)Research: Panoramic semantic segmentation & Unsupervised Domain Adaptation.
 <br/>(2022.02 - 2022.06)[Survey](https://arxiv.org/pdf/2206.02070): Priors in deep-learning based image resotration and enhancement, submitted to TPAMI.
 <br/>(2022.03 - 2022.05)Research: Knowledge Distillation.
 <br/>(2021.11 - 2021.03)Research: Semi-supervised Learning.
