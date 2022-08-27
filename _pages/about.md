@@ -80,7 +80,7 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 <br/>(2022.03 - 2022.05)Research: Knowledge Distillation.
 <br/>(2021.11 - 2021.03)Research: Semi-supervised Learning.
 
-- *2021.08 - 2021.09*, [Hokkaido](https://www.hokudai.ac.jp/) Summer Institute.
+- *2021.08 - 2021.09*, Hokkaido Summer Institute, [Hokkaido University](https://www.hokudai.ac.jp/)
 <br/> Course: The Theory and Application of Deep Learning
 <br/> Course: Reinforcement learning, optimization theory and NLP
 
