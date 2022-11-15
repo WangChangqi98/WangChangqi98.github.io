@@ -62,7 +62,7 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/Uncertainty-Teacher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation, in Computers in Biology and Medicine, 2022.
+[Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S001048252200751X), in Computers in Biology and Medicine, 2022.
   
 Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 
