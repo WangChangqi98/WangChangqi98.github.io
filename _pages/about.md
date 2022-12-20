@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation, omnidirectional vision, optical flow and medical image analysis. 
+I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on event-based vision, 3D vision and omnidirectional vision.
 
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/10053921/zhengxu_CV.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
 
@@ -86,7 +86,7 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 
 
 # 💻 Internships
-- *2021.11 - 2022.08 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
+- *2021.11 - 2022.12 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
 <br/>(2022.06 - 2022.08)Research: Panoramic semantic segmentation & Unsupervised Domain Adaptation.
 <br/>(2022.02 - 2022.06)[Survey](https://arxiv.org/pdf/2206.02070): Priors in deep-learning based image resotration and enhancement, submitted to TPAMI.
 <br/>(2022.03 - 2022.05)Research: Knowledge Distillation.
