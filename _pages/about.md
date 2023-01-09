@@ -28,16 +28,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 - *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
 
 
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/TCC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Transformer-CNN Cohort: Semi-supervised Semantic Segmentation by the Best of Both Students]([https://arxiv.org/pdf/2206.02070](https://arxiv.org/pdf/2209.02178)) Arxiv 2022
-  
-<u>Xu Zheng</u>, Yunhao Luo, Hao Wang, Chong Fu, Lin Wang
-  
-</div>
-</div>
+# 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -57,21 +48,10 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/Uncertainty-Teacher.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation](https://www.sciencedirect.com/science/article/pii/S001048252200751X), in Computers in Biology and Medicine, 2022.
-  
-Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
-
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2022.09* National Scholarship of China (2%)
-- *2022.09* First Class Master Scholarship of Northeastern University (20%)
-- *2021.09* First Class Master Scholarship of Northeastern University (20%)
-- *2020.09* First Class Master Scholarship of Northeastern University (20%)
+- *2021/2/3.09* First Class Master Scholarship of Northeastern University (20%)
 - *2019.06* Outstanding Graduate of Liaoning Province (2%)
 - *2019.06* Outstanding Graduate of Northeastern University (2%)
 - *2019.03* First Class Undergraduate Scholarship of Northeastern University 
@@ -87,14 +67,7 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 
 # 💻 Internships
 - *2021.11 - 2022.12 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
-<br/>(2022.06 - 2022.08)Research: Panoramic semantic segmentation & Unsupervised Domain Adaptation.
-<br/>(2022.02 - 2022.06)[Survey](https://arxiv.org/pdf/2206.02070): Priors in deep-learning based image resotration and enhancement, submitted to TPAMI.
-<br/>(2022.03 - 2022.05)Research: Knowledge Distillation.
-<br/>(2021.11 - 2021.03)Research: Semi-supervised Learning.
-
 - *2021.08 - 2021.09*, Hokkaido Summer Institute, [Hokkaido University](https://www.hokudai.ac.jp/)
-<br/> Course: The Theory and Application of Deep Learning
-<br/> Course: Reinforcement learning, optimization theory and NLP
 
 # 🏫 Social Activities
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
