@@ -17,27 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on event-based vision, 3D vision and omnidirectional vision.
+I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on event-based, 360 and 3D vision.
 
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/10053921/zhengxu_CV.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
 
 # 🔥 News
+- *2022.11*: I won the National Scholarship.
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 - *2022.07*: Start remote visting [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) in [NEU](https://www.northeastern.edu/).
-- *2022.06*: One survey paper uploaded to [Arxiv](https://arxiv.org/pdf/2206.02070).
 - *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
 
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-[All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/pdf/2206.02070) Arxiv 2022 (Submitted to TPAMI)
-  
-Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
-  
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/uncertainty-aware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -52,21 +43,20 @@ Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
 # 🎖 Honors and Awards
 - *2022.09* National Scholarship of China (2%)
 - *2021/2/3.09* First Class Master Scholarship of Northeastern University (20%)
-- *2019.06* Outstanding Graduate of Liaoning Province (2%)
-- *2019.06* Outstanding Graduate of Northeastern University (2%)
+- *2019.06* Outstanding Graduate of Northeastern University (2%) & Liaoning Province (2%)
 - *2019.03* First Class Undergraduate Scholarship of Northeastern University 
-- *2018.09* Second Class Undergraduate Scholarship of Northeastern University
 - *2017.06* Honerable Mention Award in MCM 2017
 - *2017.08* Provincial Third Prize in Liaoning Province Electronic Design Competition
+
 
 # 📖 Educations
 - *2020.06 - 2022.06 (now)*, <br/> M.E., Northeastern University, Shenyang, China
 - *2015.09 - 2019.06*, <br/> B.E., Northeastern University, Shenyang, China
+- *2012.09 - 2015.06*, <br/> H.S., The twentieth Middle School of Shenyang City, Shenyang, China
 
 
-
-# 💻 Internships
-- *2021.11 - 2022.12 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
+# 💻 Internships 
+- *2021.11 - 2023.01 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) superivsed by Prof. Lin Wang, HKUST.
 - *2021.08 - 2021.09*, Hokkaido Summer Institute, [Hokkaido University](https://www.hokudai.ac.jp/)
 
 # 🏫 Social Activities
@@ -86,7 +76,7 @@ I have been serving as a volunteer teacher in Tongchuan No. 2 Primary School, Sa
     <!-- text-indent:3em;  -->
     <div style="margin-left: 5%;" id='modify_log'>
         <br/>
-        <p>Last updated: Aug 24th, 2022</p>
+        <p>Last updated: Jan 10th, 2023</p>
         <br/>
         <br/>
     </div>
