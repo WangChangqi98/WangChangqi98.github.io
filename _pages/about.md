@@ -31,7 +31,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/uncertainty-aware.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/tease1-Lin.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890), Submitted to TPAMI, 2023.
