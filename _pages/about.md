@@ -22,8 +22,8 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/10053921/zhengxu_CV.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
 
 # 🔥 News
-- *2023.02*  <font color=red>One paper accepted to CVPR 2023</font>! 
-- *2023.02*：<font color=red>One first author survey paper uploaded to </font>[Arxiv](https://arxiv.org/abs/2302.08890)
+- *2023.02*: <font color=red>One paper accepted to CVPR 2023</font>! 
+- *2023.02*: <font color=red>One first author survey paper uploaded to </font>[Arxiv](https://arxiv.org/abs/2302.08890)
 - *2022.11*: I won the National Scholarship!
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 - *2022.07*: Start remote visting [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) in [NEU](https://www.northeastern.edu/).
