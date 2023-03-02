@@ -23,6 +23,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 
 # 🔥 News
 - *2023.02*: <font color=red>One paper accepted to CVPR 2023</font>! 
+- *2023.02*: <font color=red>One papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)!
 - *2023.02*: <font color=red>One first author survey paper uploaded to </font>[Arxiv](https://arxiv.org/abs/2302.08890)
 - *2022.11*: I won the National Scholarship!
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
@@ -31,7 +32,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/tease1-Lin.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/eventsurvey.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks](https://arxiv.org/abs/2302.08890), Submitted to TPAMI, 2023.
