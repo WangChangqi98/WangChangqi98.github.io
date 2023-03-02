@@ -23,7 +23,7 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 
 # 🔥 News
 - *2023.02*: <font color=red>One paper accepted to CVPR 2023</font>! 
-- *2023.02*: <font color=red>One papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)!
+- *2023.02*: <font color=red>One paper accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)!
 - *2023.02*: <font color=red>One first author survey paper uploaded to </font>[Arxiv](https://arxiv.org/abs/2302.08890)
 - *2022.11*: I won the National Scholarship!
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
