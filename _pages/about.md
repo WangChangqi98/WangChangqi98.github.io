@@ -32,6 +32,16 @@ I am a current master student at [NEU](http://www.neu.edu.cn/), China and intere
 
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='[images/eventsurvey.jpeg](https://user-images.githubusercontent.com/49426295/225547867-39f0c999-3212-450c-8030-1093070afb7c.png)' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation CVPR 2023](), CVPR, 2023.
+  
+<u>Xu Zheng</u>, Jinjing Zhu, Yexin Liu, Zidong Cao, Chong Fu, Lin Wang
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/eventsurvey.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
