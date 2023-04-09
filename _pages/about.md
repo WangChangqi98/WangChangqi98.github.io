@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on event-based, 360 and 3D vision.
+I'm an incoming PhD student at [VLISLab](https://addisonwang2013.github.io/vlislab/index.html), HKUST (GZ). I'm currently a master's student at NEU, China, interested in various DL/CV topics from low-level to high-level vision. Lately, I've been focusing on event-based, 360, and 3D vision.
 
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/10053921/zhengxu_CV.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
 
