@@ -69,7 +69,7 @@ Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks, Sub
 - *2015.09 - 2019.06*, <br/> B.E., Northeastern University, Shenyang, China
 - *2012.09 - 2015.06*, <br/> H.S., The twentieth Middle School of Shenyang City, Shenyang, China
 
-# 🎙️ Invited Talks
+# 💬 Invited Talks
 
 # 💻 Internships 
 - *2021.11 - 2023.01 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) superivsed by Prof. Lin Wang, HKUST.
