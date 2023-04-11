@@ -28,7 +28,7 @@ I'm an incoming PhD student at [VLISLab](https://addisonwang2013.github.io/vlisl
 - *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
 
 
-# 📝 Selected Publications 
+# 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/dppass.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -68,18 +68,12 @@ Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks, Sub
 - *2015.09 - 2019.06*, <br/> B.E., Northeastern University, Shenyang, China
 - *2012.09 - 2015.06*, <br/> H.S., The twentieth Middle School of Shenyang City, Shenyang, China
 
+# 🎙️ Invited Talks
 
 # 💻 Internships 
 - *2021.11 - 2023.01 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) superivsed by Prof. Lin Wang, HKUST.
 - *2022.6 - 2022.9* Remote visting [Khoury College of Computer Science][Khoury College of Computer Science](https://www.khoury.northeastern.edu/) in [NEU](https://www.northeastern.edu/)。
 - *2021.08 - 2021.09*, Hokkaido Summer Institute, [Hokkaido University](https://www.hokudai.ac.jp/)。
-
-# 🏫 Social Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-I have been serving as a volunteer teacher in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province from 2019/08 to 2020/08. There I met lovely teachers and students, and the precious experiences gave me a different understanding of life.
-</div>
-</div>
 
 <html>
   <body>
