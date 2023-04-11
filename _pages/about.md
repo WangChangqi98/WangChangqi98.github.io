@@ -30,6 +30,7 @@ I'm an incoming PhD student at [VLISLab](https://addisonwang2013.github.io/vlisl
 
 
 # 📝 Publications 
+  (Selected ones, all papers refer to [Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ))
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/dppass.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
