@@ -22,10 +22,11 @@ I'm an incoming PhD student at [VLISLab](https://addisonwang2013.github.io/vlisl
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/10053921/zhengxu_CV.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
 
 # 🔥 News
+- *2023.02*: <font color=blue>I will join [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST(GZ)! 
 - *2023.02*: <font color=red>One paper accepted to CVPR 2023</font>! 
-- *2023.02*: <font color=red>One first author survey paper uploaded to </font>[Arxiv](https://arxiv.org/abs/2302.08890)
+- *2023.02*: <font color=red>One first author survey paper uploaded to </font>[Arxiv](https://arxiv.org/abs/2302.08890)！
 - *2022.11*: I won the National Scholarship!
-- *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
+- *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST(GZ).
 
 
 # 📝 Publications 
