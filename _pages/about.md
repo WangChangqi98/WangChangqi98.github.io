@@ -30,7 +30,7 @@ I'm an incoming PhD student at [VLISLab](https://addisonwang2013.github.io/vlisl
 
 
 # 📝 Publications 
-  (Selected ones, all papers refer to [Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ))
+  (Selected publications, all papers refer to [Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ))
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/dppass.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -74,7 +74,7 @@ Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks, Sub
 
 # 💻 Internships 
 - *2021.11 - 2023.01 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) superivsed by Prof. Lin Wang, HKUST.
-- *2022.6 - 2022.9* Remote visting [Khoury College of Computer Science][Khoury College of Computer Science](https://www.khoury.northeastern.edu/) in [NEU](https://www.northeastern.edu/)。
+- *2022.6 - 2022.9* Remote visting [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) in [NEU](https://www.northeastern.edu/)。
 - *2021.08 - 2021.09*, Hokkaido Summer Institute, [Hokkaido University](https://www.hokudai.ac.jp/)。
 
 <html>
