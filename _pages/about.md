@@ -48,7 +48,7 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR, 2023.
   
 Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks
 
-Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence, TPAMI, 2023.
+Arxiv Preprint, 2023.
   
 [page][[pdf](https://arxiv.org/abs/2302.08890)][[code](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
   
