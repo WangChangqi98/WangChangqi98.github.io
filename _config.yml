@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xu Zheng"
-description              : "Master in NEU. "
+description              : "Computer and Robotic Vision, Artificial Intelligence"
 repository               : "zhengxuJosh/zhengxuJosh.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xu Zheng (郑旭)"
+  name             : "Xu Zheng"
   avatar           : "images/zhengxu.jpg"
-  bio              : "The Hong Kong University of Science and Technology"
+  bio              : "HKUST, NEU"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
