@@ -25,8 +25,6 @@ I'm an incoming PhD student at [VLISLab](https://addisonwang2013.github.io/vlisl
 - *2023.04*: <font color=blue>I’m excited to start my Ph.D. at HKUST(GZ) in the fall! 
 - *2023.02*: <font color=red>One paper accepted to CVPR 2023</font>! 
 - *2023.02*: <font color=red>One first author survey paper uploaded to </font>[Arxiv](https://arxiv.org/abs/2302.08890)！
-- *2022.11*: I won the National Scholarship!
-- *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST(GZ).
 
 
 # 📝 Publications 
@@ -34,7 +32,9 @@ I'm an incoming PhD student at [VLISLab](https://addisonwang2013.github.io/vlisl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/dppass.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation, CVPR, 2023.
+Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation
+
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR, 2023.
 
 [[page](https://vlis2022.github.io/cvpr23/DPPASS)][[pdf](https://arxiv.org/pdf/2303.14360.pdf)][[code](https://github.com/zhengxuJosh/DPPASS)]
 
@@ -46,7 +46,9 @@ Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for P
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/eventsurvey.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks, Submitted to TPAMI, 2023.
+Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks
+
+Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence, TPAMI, 2023.
   
 [page][[pdf](https://arxiv.org/abs/2302.08890)][[code](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
   
