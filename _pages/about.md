@@ -36,7 +36,7 @@ Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for P
 
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR, 2023.
 
-[[page](https://vlis2022.github.io/cvpr23/DPPASS)][[pdf](https://arxiv.org/pdf/2303.14360.pdf)][[code](https://github.com/zhengxuJosh/DPPASS)]
+[[page](https://vlis2022.github.io/cvpr23/DPPASS)][[pdf]([https://arxiv.org/pdf/2303.14360.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf))][[code](https://github.com/zhengxuJosh/DPPASS)]
 
 <u>Xu Zheng</u>, Jinjing Zhu, Yexin Liu, Zidong Cao, Chong Fu, Lin Wang
 
