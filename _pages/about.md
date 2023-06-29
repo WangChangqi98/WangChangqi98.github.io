@@ -73,7 +73,8 @@ Arxiv Preprint, 2023.
 - *2012.09 - 2015.06*, <br/> H.S., The twentieth Middle School of Shenyang City, Shenyang, China
 
 # 💬 Invited Talks
-
+- *2023.06* <br/> Applications of Omnidirectional Vision, University of Auckland
+  
 # 💻 Internships 
 - *2021.11 - 2023.01 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) superivsed by Prof. Lin Wang, HKUST.
 - *2022.6 - 2022.9* Remote visting [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) in [NEU](https://www.northeastern.edu/)。
