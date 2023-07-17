@@ -22,6 +22,7 @@ I'm an incoming PhD student at [VLISLab](https://addisonwang2013.github.io/vlisl
 [Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/10053921/zhengxu_CV.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
 
 # 🔥 News
+- *2023.07*: <font color=red>Two papers accepted to ICCV 2023</font>! 
 - *2023.04*: <font color=blue>I’m excited to start my Ph.D. at HKUST(GZ) in the fall! 
 - *2023.02*: <font color=red>One paper accepted to CVPR 2023</font>! 
 - *2023.02*: <font color=red>One first author survey paper uploaded to </font>[Arxiv](https://arxiv.org/abs/2302.08890)！
