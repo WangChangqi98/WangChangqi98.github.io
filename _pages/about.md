@@ -28,72 +28,66 @@ I'm a master's student at Northeastern University, China, interested in various 
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/dppass.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/CSS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation
+<b>Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation</b>
 
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR, 2023.
+International Conference on Computer Vision (ICCV) 2023.
 
-[[page](https://vlis2022.github.io/cvpr23/DPPASS)][[pdf]([https://arxiv.org/pdf/2303.14360.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf))][[code](https://github.com/zhengxuJosh/DPPASS)]
+[[paper]([https://arxiv.org/pdf/2303.14360.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf))][[code](https://github.com/zhengxuJosh/DPPASS)]
 
-<u>Xu Zheng</u>, Jinjing Zhu, Yexin Liu, Zidong Cao, Chong Fu, Lin Wang
+<u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/eventsurvey.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/PTT.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
   
-Deep Learning for Event-based Vision: A Comprehensive Survey and Benchmarks
+PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation
 
-Arxiv Preprint, 2023.
+Submitted to International Journal of Computer Vision (IJCV).
+  
+[[paper](https://arxiv.org/abs/2302.08890)][[code](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
+  
+Haoyu Xie, <u>Changqi Wang</u>, Yang Liu, Jun Dan, Chong Fu, Jan Zhao, Baigui Sun
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2023</div><img src='images/PRCL.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+  
+Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations
+
+AAAI Conference on Artificial Intelligence (AAAI Oral), 2023.
   
 [page][[pdf](https://arxiv.org/abs/2302.08890)][[code](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
   
-<u>Xu Zheng*</u>, Yexin Liu*, Yunfan Lu, Tongyan Hua, Tianbo Pan, Weiming Zhang, Dacheng Tao, Lin Wang
+Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
 
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2022.09* National Scholarship of China (2%)
-- *2021/2/3.09* First Class Master Scholarship of Northeastern University (20%)
-- *2019.06* Outstanding Graduate of Northeastern University (2%) & Liaoning Province (2%)
-- *2019.03* First Class Undergraduate Scholarship of Northeastern University 
-- *2017.06* Honerable Mention Award in MCM 2017
-- *2017.08* Provincial Third Prize in Liaoning Province Electronic Design Competition
+* *2022.09*: Second Class Master Scholarship of Northeastern University
+* *2021.09*: President's Scholarship of Northeastern University (Top 5%)
+* *2021.06*: Outstanding Graduate of Northeastern University (Top 10%)
+* *2020.09*: First Class Undergraduate Scholarship of Northeastern University (Top 10%)
+* *2020.09*: Postgraduate Candidates Exempt from Admission Exam (8/95)
+* *2019.08*: Provincial Second Prize in Liaoning Province Electronic Design Competition (2/40)
 
 
 # 📖 Educations
-- *2020.06 - 2022.06 (now)*, <br/> M.E., Northeastern University, Shenyang, China
-- *2015.09 - 2019.06*, <br/> B.E., Northeastern University, Shenyang, China
-- *2012.09 - 2015.06*, <br/> H.S., The twentieth Middle School of Shenyang City, Shenyang, China
+* *2021.09 - now*, M.E., Northeastern University, Shenyang, China
+* *2017.09 - 2021.06*, B.E., Northeastern University, Shenyang, China
 
 # 💬 Invited Talks
-- *2023.06* <br/> Applications of Omnidirectional Vision, University of Auckland
+* *2023.06* <br/> Applications of Omnidirectional Vision, University of Auckland
   
 # 💻 Internships 
-- *2021.11 - 2023.01 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) superivsed by Prof. Lin Wang, HKUST.
-- *2022.6 - 2022.9* Remote visting [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) in [NEU](https://www.northeastern.edu/)。
-- *2021.08 - 2021.09*, Hokkaido Summer Institute, [Hokkaido University](https://www.hokudai.ac.jp/)。
-
-<html>
-  <body>
-    <div style="width: 400px;">
-        <br/>
-        <br/>
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&cl=ffffff&w=a"></script>
-    </div>
-    <!-- text-indent:3em;  -->
-    <div style="margin-left: 5%;" id='modify_log'>
-        <br/>
-        <p>Last updated: Jan 10th, 2023</p>
-        <br/>
-        <br/>
-    </div>
-  <body>
-<html>
+* *2022.12 - 2023.07 (now)*, [MMLab](https://mmlab.ie.cuhk.edu.hk) superivsed by Prof. [Xiangyu Yue](http://people.eecs.berkeley.edu/~xyyue/).
 
 
