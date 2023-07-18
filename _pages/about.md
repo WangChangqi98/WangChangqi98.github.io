@@ -88,6 +88,6 @@ Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
 * *2023.06* <br/> Applications of Omnidirectional Vision, University of Auckland
   
 # 💻 Internships 
-* *2022.12 - 2023.07 (now)*, [MMLab](https://mmlab.ie.cuhk.edu.hk) superivsed by Prof. [Xiangyu Yue](http://people.eecs.berkeley.edu/~xyyue/).
+* *2022.12 - 2023.07 (now)*, [MMLab](https://mmlab.ie.cuhk.edu.hk), The Chinese University of Hong Kong, superivsed by Prof. [Xiangyu Yue](http://people.eecs.berkeley.edu/~xyyue/).
 
 
