@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a master's student at Northeastern University, China, interested in various DL/CV topics from low-level to high-level vision. Lately, I've been focusing on label-efficient learning and semantic segmentation.
 
-[Email](wangchangqi98@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/10053921/zhengxu_CV.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=uwIyOQ8AAAAJ) / [Github](https://github.com/WangChangqi98)
+[Email](wangchangqi98@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=uwIyOQ8AAAAJ) / [Github](https://github.com/WangChangqi98)
 
 # 🔥 News
 - *2023.07*: <font color=red>One papers accepted to ICCV 2023</font>! 
