@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xu Zheng"
-description              : "Computer and Robotic Vision & Artificial Intelligence"
-repository               : "zhengxuJosh/zhengxuJosh.github.io"
+title                    : "Changqi Wang"
+description              : "Computer Vision & Artificial Intelligence"
+repository               : "WangChangqi98/WangChangqi98.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xu Zheng"
-  avatar           : "images/zhengxu_master.jpg"
-  bio              : "HKUST, NEU"
-  location         : "Guangzhou, China"
+  name             : "Changqi Wang"
+  avatar           : "images/changqi.jpg"
+  bio              : "Northeastern University"
+  location         : "Shenyang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=Ii1c51QAAAAJ&hl=zh-CN"
-  email            : "zhengxu128@gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=uwIyOQ8AAAAJ"
+  email            : "wangchangqi98@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zhengxuJosh" # e.g., "github username"
+  github           : "https://github.com/Wangchangqi98" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
