@@ -43,6 +43,7 @@ International Conference on Computer Vision (ICCV) 2023.
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/PTT.png' alt="sym" width="300px"></div>
+</div>
 <div class='paper-box-text' markdown="1">
   
 PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation
