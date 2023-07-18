@@ -17,19 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm an incoming PhD student at [VLISLab](https://addisonwang2013.github.io/vlislab/index.html), HKUST (GZ). I'm currently a master's student at NEU, China, interested in various DL/CV topics from low-level to high-level vision. Lately, I've been focusing on event-based, 360, and 3D vision.
+I'm a master's student at Northeastern University, China, interested in various DL/CV topics from low-level to high-level vision. Lately, I've been focusing on label-efficient learning and semantic segmentation.
 
-[Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/10053921/zhengxu_CV.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
+[Email](wangchangqi98@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/10053921/zhengxu_CV.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=uwIyOQ8AAAAJ) / [Github](https://github.com/WangChangqi98)
 
 # 🔥 News
-- *2023.07*: <font color=red>Two papers accepted to ICCV 2023</font>! 
-- *2023.04*: <font color=blue>I’m excited to start my Ph.D. at HKUST(GZ) in the fall! 
-- *2023.02*: <font color=red>One paper accepted to CVPR 2023</font>! 
-- *2023.02*: <font color=red>One first author survey paper uploaded to </font>[Arxiv](https://arxiv.org/abs/2302.08890)！
+- *2023.07*: <font color=red>One papers accepted to ICCV 2023</font>! 
+- *2022.12*: <font color=blue>I’m excited to start my internship at MMLab! 
+- *2022.11*: <font color=red>One paper accepted to AAAI 2023</font>! 
 
 
 # 📝 Publications 
-  (Selected publications, all papers refer to [Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ))
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2023</div><img src='images/dppass.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
