@@ -72,6 +72,11 @@ Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
 </div>
 </div>
 
+# 💻 Internships 
+* *2022.12 - 2023.07 (now)*, [MMLab](https://mmlab.ie.cuhk.edu.hk), The Chinese University of Hong Kong, superivsed by Prof. [Xiangyu Yue](http://people.eecs.berkeley.edu/~xyyue/).
+
+# 💬 Invited Talks
+* *2023.06* <br/> Applications of Omnidirectional Vision, University of Auckland
 
 # 🎖 Honors and Awards
 * *2022.09*: Second Class Master Scholarship of Northeastern University
@@ -81,15 +86,9 @@ Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
 * *2020.09*: Postgraduate Candidates Exempt from Admission Exam (8/95)
 * *2019.08*: Provincial Second Prize in Liaoning Province Electronic Design Competition (2/40)
 
-
 # 📖 Educations
 * *2021.09 - now*, M.E., Northeastern University, Shenyang, China
 * *2017.09 - 2021.06*, B.E., Northeastern University, Shenyang, China
 
-# 💬 Invited Talks
-* *2023.06* <br/> Applications of Omnidirectional Vision, University of Auckland
-  
-# 💻 Internships 
-* *2022.12 - 2023.07 (now)*, [MMLab](https://mmlab.ie.cuhk.edu.hk), The Chinese University of Hong Kong, superivsed by Prof. [Xiangyu Yue](http://people.eecs.berkeley.edu/~xyyue/).
 
 
