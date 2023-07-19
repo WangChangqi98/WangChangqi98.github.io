@@ -65,7 +65,7 @@ Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representation
 
 AAAI Conference on Artificial Intelligence (AAAI Oral), 2023.
   
-[page][[pdf](https://arxiv.org/abs/2302.08890)][[code](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
+[[pdf](https://arxiv.org/abs/2302.08890)][[code](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
   
 Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
 
