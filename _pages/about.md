@@ -42,7 +42,7 @@ International Conference on Computer Vision (ICCV) 2023.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/PTT.png' alt="sym" width="300px" height='300px'></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PTT.png' alt="sym" width="300px" height='300px'></div>
 </div>
 <div class='paper-box-text' markdown="1">
   
@@ -57,7 +57,7 @@ Haoyu Xie, <u>Changqi Wang</u>, Yang Liu, Jun Dan, Chong Fu, Jan Zhao, Baigui Su
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2023</div><img src='images/PRCL.png' alt="sym" width="300px" height='300px'></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/PRCL.png' alt="sym" width="300px" height='300px'></div>
 </div>
 <div class='paper-box-text' markdown="1">
   
