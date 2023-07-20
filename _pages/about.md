@@ -28,7 +28,7 @@ I'm a master's student at Northeastern University, China, interested in various 
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='images/CSS.png' alt="sym" width="300px" height='300px'></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/CSS.png' alt="sym" width="300px" height='300px'></div></div>
 <div class='paper-box-text' markdown="1">
   
 <b>Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation</b>
