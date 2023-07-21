@@ -35,7 +35,7 @@ I'm a master's student at Northeastern University, China, interested in various 
 
 International Conference on Computer Vision (ICCV) 2023.
 
-[[paper]([https://arxiv.org/pdf/2303.14360.pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf))][[code](https://github.com/zhengxuJosh/DPPASS)]
+[[paper]([https://arxiv.org/pdf/2307.09755.pdf])]
 
 <u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue
 
@@ -50,7 +50,6 @@ PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmen
 
 Submitted to International Journal of Computer Vision (IJCV).
   
-[[paper](https://arxiv.org/abs/2302.08890)][[code](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
   
 Haoyu Xie, <u>Changqi Wang</u>, Yang Liu, Jun Dan, Chong Fu, Jan Zhao, Baigui Sun
 
@@ -65,7 +64,7 @@ Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representation
 
 AAAI Conference on Artificial Intelligence (AAAI Oral), 2023.
   
-[[pdf](https://arxiv.org/abs/2302.08890)][[code](https://github.com/vlislab2022/Awesome-Events-Deep-Learning)]
+[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/25396)][[code](https://github.com/Haoyu-Xie/PRCL)]
   
 Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
 
