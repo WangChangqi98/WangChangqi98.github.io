@@ -21,7 +21,7 @@ I'm a master's student at Northeastern University, China, interested in various 
 
 [Email](wangchangqi98@gmail.com) / [Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=uwIyOQ8AAAAJ) / [Github](https://github.com/WangChangqi98)
 
-* <font color=red><b>I am currently seeking a Ph.D. position!</b></font>
+<font color=red><b>I am currently seeking a Ph.D. position!</b></font>
 
 # 🔥 News
 - *2023.07*: <font color=red>One papers accepted to ICCV 2023!</font>
