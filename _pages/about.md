@@ -77,7 +77,7 @@ Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
 * *2022.12 - 2023.07 (now)*, [MMLab](https://mmlab.ie.cuhk.edu.hk), The Chinese University of Hong Kong, superivsed by Prof. [Xiangyu Yue](http://people.eecs.berkeley.edu/~xyyue/).
 
 # 💬 Invited Talks
-* *2023.06* <br/> Applications of Omnidirectional Vision, University of Auckland
+* *2023.06* <br/> Robust Perspective on Semi-supervised Learning, University of Auckland
 
 # 🎖 Honors and Awards
 * *2022.09*: Second Class Master Scholarship of Northeastern University
