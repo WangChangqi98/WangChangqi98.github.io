@@ -66,7 +66,7 @@ Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representation
 
 AAAI Conference on Artificial Intelligence (AAAI Oral), 2023.
   
-[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/25396)][[code](https://github.com/Haoyu-Xie/PRCL)]
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25396)][[code](https://github.com/Haoyu-Xie/PRCL)]
   
 Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
 
