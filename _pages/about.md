@@ -48,7 +48,7 @@ International Conference on Computer Vision (ICCV) 2023.
 </div>
 <div class='paper-box-text' markdown="1">
   
-PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation
+<b>PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation</b>
 
 Submitted to International Journal of Computer Vision (IJCV).
   
@@ -62,7 +62,7 @@ Haoyu Xie, <u>Changqi Wang</u>, Yang Liu, Jun Dan, Chong Fu, Jan Zhao, Baigui Su
 </div>
 <div class='paper-box-text' markdown="1">
   
-Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations
+<b>Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations</b>
 
 AAAI Conference on Artificial Intelligence (AAAI Oral), 2023.
   
