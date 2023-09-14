@@ -80,12 +80,11 @@ Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu
 * *2023.06* <br/> Robust Perspective on Semi-supervised Learning, University of Auckland
 
 # 🎖 Honors and Awards
-* *2022.09*: Second Class Master Scholarship of Northeastern University
+* *2023.09*: National Scholarship, highest scholarship in China (Top 1)
 * *2021.09*: President's Scholarship of Northeastern University (Top 5%)
 * *2021.06*: Outstanding Graduate of Northeastern University (Top 10%)
 * *2020.09*: First Class Undergraduate Scholarship of Northeastern University (Top 10%)
 * *2020.09*: Postgraduate Candidates Exempt from Admission Exam (8/95)
-* *2019.08*: Provincial Second Prize in Liaoning Province Electronic Design Competition (2/40)
 
 # 📖 Educations
 * *2021.09 - now*, M.E., Northeastern University, Shenyang, China
